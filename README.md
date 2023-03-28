@@ -1,4 +1,4 @@
-1. 03062023 파바썬? 10.프로젝트  
+[1. 03062023 파바썬? 10.프로젝트](https://github.com/4juneko/Aiffel_work/blob/master/DataAnalysisABC_10project_03172023.ipynb)  
 - 03102023 do again  
 - 03102023 homework 3 files  
 
