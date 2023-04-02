@@ -11,6 +11,6 @@
 - 03282023 homework 1 file
 - airbnb New York (kaggle dataset) 가격 예측
 ----
-[4. 03272023 머신러닝 분류 프로젝트]
+[4. 03272023 머신러닝 분류 프로젝트](https://github.com/4juneko/Aiffel_work/blob/master/Classification_3Datasets_scikitLearn_03272023.ipynb)
 - 04022023 homework 1file
 - 3 datasets of sklearn (digits, wine, breast_cancer)
