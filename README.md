@@ -1,7 +1,6 @@
 [1. 03062023 파바썬? 10.프로젝트](https://github.com/4juneko/Aiffel_work/blob/master/pyBoaThon_10project_03062023.ipynb)  
 - 03102023 do again  
 - 03102023 homework 3 files [1](https://github.com/4juneko/Aiffel_work/blob/master/230307_On_3rd_CR.ipynb), [2](https://github.com/4juneko/Aiffel_work/blob/master/230308_On_3rd_CR.ipynb), [3](https://github.com/4juneko/Aiffel_work/blob/master/caffeKiosk.ipynb)  
-
 ----  
 [2. 03172023 데이터 분석 ABC 10.프로젝트](https://github.com/4juneko/Aiffel_work/blob/master/DataAnalysisABC_10project_03172023.ipynb)  
 - 스터디까페 매출 분석
@@ -14,4 +13,7 @@
 ----
 [5. 03302023 머신러닝 회귀 프로젝트](https://github.com/4juneko/Aiffel_work/blob/master/Diabetes_BikeAt3pm_03302023.ipynb)
 - Diabetes and Bike rider
+----
+[6. 04112023 시계열 미니 프로젝트](https://github.com/4juneko/Aiffel_work/blob/master/timeSeries_miniProject_04112023.ipynb)
+- Air passengers and Robot execution failures from tsfresh
 ----
