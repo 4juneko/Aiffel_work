@@ -20,3 +20,6 @@
 [7. 04122023 ARIMA, ARCH 적용 시계열 미니 프로젝트](https://github.com/4juneko/Aiffel_work/blob/master/ARIMA_ARCH_04122023.ipynb)
 - Air passengers(ARIMA) and S&P 500(ARCH)
 ----
+[8. 04132023 3개 종목 주가 예측](https://github.com/4juneko/Aiffel_work/blob/master/Forecast_Stock_Project_04132023.ipynb)
+- LGEnsol, TSLA, SK innovation
+----
