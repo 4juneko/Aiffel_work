@@ -17,3 +17,6 @@
 [6. 04112023 시계열 미니 프로젝트](https://github.com/4juneko/Aiffel_work/blob/master/timeSeries_miniProject_04112023.ipynb)
 - Air passengers and Robot execution failures from tsfresh
 ----
+[7. 04122023 ARIMA, ARCH 적용 시계열 미니 프로젝트](https://github.com/4juneko/Aiffel_work/blob/master/ARIMA_ARCH_04122023.ipynb)
+- Air passengers(ARIMA) and S&P 500(ARCH)
+----
