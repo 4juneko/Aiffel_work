@@ -3,10 +3,10 @@
 - 03102023 homework 3 files [1](https://github.com/4juneko/Aiffel_work/blob/master/230307_On_3rd_CR.ipynb), [2](https://github.com/4juneko/Aiffel_work/blob/master/230308_On_3rd_CR.ipynb), [3](https://github.com/4juneko/Aiffel_work/blob/master/caffeKiosk.ipynb)  
 ----  
 [2. 03172023 데이터 분석 ABC 10.프로젝트](https://github.com/4juneko/Aiffel_work/blob/master/DataAnalysisABC_10project_03172023.ipynb)  
-- 스터디까페 매출 분석
+- Anaysis of Sales of Study Cafe
 ----  
 [3. 03232023 머신러닝 기초 10.프로젝트](https://github.com/4juneko/Aiffel_work/blob/master/machineLearningBasic_10project_03232023.ipynb)
-- airbnb New York (kaggle dataset) 가격 예측
+- predict peice of airbnb in New York (kaggle dataset) 
 ----
 [4. 03272023 머신러닝 분류 프로젝트](https://github.com/4juneko/Aiffel_work/blob/master/Classification_3Datasets_scikitLearn_03272023.ipynb)
 - 3 datasets of sklearn (digits, wine, breast_cancer)
