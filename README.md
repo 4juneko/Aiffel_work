@@ -23,5 +23,5 @@
 [8. 04132023 3개 종목 주가 예측](https://github.com/4juneko/Aiffel_work/blob/master/Forecast_Stock_Project_04132023.ipynb)
 - LGEnsol, TSLA, SK innovation
 ----
-[9. 04202023 넷플릭스 데이터 분석](https://colab.research.google.com/drive/1wL2gK-cc-3ozLriEjd_9jerd2BORu5gH?authuser=1#scrollTo=4TiahrG969AO)
+[9. 04202023 넷플릭스 데이터 분석](https://github.com/4juneko/Aiffel_work/blob/master/09_datathon_Netflix_04182023.ipynb)
 - Datathon (2021년 9월까지 데이터)
