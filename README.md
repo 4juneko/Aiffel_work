@@ -25,3 +25,6 @@
 ----
 [9. 04202023 넷플릭스 데이터 분석](https://github.com/4juneko/Aiffel_work/blob/master/09_datathon_Netflix_04182023.ipynb)
 - Datathon (2021년 9월까지 데이터)
+----
+[10. 40242023 캐글 집값 예측](https://github.com/4juneko/Aiffel_work/blob/master/10_Kaggle_house_price_predict_04172023.ipynb)
+- Seatle House Price Prediction
