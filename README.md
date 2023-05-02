@@ -28,3 +28,6 @@
 ----
 [10. 40242023 캐글 집값 예측](https://github.com/4juneko/Aiffel_work/blob/master/10_Kaggle_house_price_predict_04172023.ipynb)
 - Seatle House Price Prediction
+----
+[11. 05022023 Deep Learning](https://github.com/4juneko/Aiffel_work/blob/master/11_DeepLearning_Project_04272023.ipynb)
+- Predict Boston house price, Classification of Reuters(text), Classification of CIFAR10(image)
