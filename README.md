@@ -30,4 +30,4 @@
 - Seatle House Price Prediction
 ----
 [11. 05022023 Deep Learning](https://github.com/4juneko/Aiffel_work/blob/master/11_DeepLearning_Project_04272023.ipynb)
-- Predict Boston house price, Classification of Reuters(text), Classification of CIFAR10(image)
+- Prediction of Boston house price, Classification of Reuters(text), Classification of CIFAR10(image)
