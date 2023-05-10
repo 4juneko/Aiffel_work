@@ -31,3 +31,6 @@
 ----
 [11. 05022023 Deep Learning](https://github.com/4juneko/Aiffel_work/blob/master/11_DeepLearning_Project_04272023.ipynb)
 - Prediction of Boston house price, Classification of Reuters(text), Classification of CIFAR10(image)
+----
+[12. 05102023 Computer Vision Project](https://github.com/4juneko/Aiffel_work/blob/master/12_Computer_Vision_Project_05082023.ipynb)
+- VGG16 Model and Object Detection Model
