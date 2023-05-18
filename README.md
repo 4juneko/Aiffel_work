@@ -35,5 +35,5 @@
 [12. 05102023 Computer Vision Project](https://github.com/4juneko/Aiffel_work/blob/master/12_Computer_Vision_Project_05082023.ipynb)
 - VGG16 Model and Object Detection Model
 ----
-[13. 가위, 바위, 보 이미지 인식](https://github.com/4juneko/Aiffel_work/blob/master/13_rock_scissor_paper_05112023.ipynb)
+[13. 05182023 가위, 바위, 보 이미지 인식](https://github.com/4juneko/Aiffel_work/blob/master/13_rock_scissor_paper_05112023.ipynb)
 - Image Classification, Rock, Scissors and Paper
