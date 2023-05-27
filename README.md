@@ -1,3 +1,7 @@
+|Protject Name|Description|
+|--|--|
+
+
 [1. 03062023 파바썬? 10.프로젝트](https://github.com/4juneko/Aiffel_work/blob/master/01_pyBoaThon_10project_03062023.ipynb)  
 - 03102023 do again  
 - 03102023 homework 3 files [1](https://github.com/4juneko/Aiffel_work/blob/master/230307_On_3rd_CR.ipynb), [2](https://github.com/4juneko/Aiffel_work/blob/master/230308_On_3rd_CR.ipynb), [3](https://github.com/4juneko/Aiffel_work/blob/master/caffeKiosk.ipynb)  
