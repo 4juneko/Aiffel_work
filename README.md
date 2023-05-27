@@ -1,9 +1,6 @@
 |Protject Name|Description|
 |--|--|
-|[1. 03062023 파바썬? 10.프로젝트](https://github.com/4juneko/Aiffel_work/blob/master/01_pyBoaThon_10project_03062023.ipynb)|03102023 do again 03102023 homework 3 files |
-||[1](https://github.com/4juneko/Aiffel_work/blob/master/230307_On_3rd_CR.ipynb)|
-||  [2](https://github.com/4juneko/Aiffel_work/blob/master/230308_On_3rd_CR.ipynb)|
-||  [3](https://github.com/4juneko/Aiffel_work/blob/master/caffeKiosk.ipynb)  |
+|[1. 03062023 파바썬? 10.프로젝트](https://github.com/4juneko/Aiffel_work/blob/master/01_pyBoaThon_10project_03062023.ipynb)|03102023 do again 03102023 homework 3 files [1](https://github.com/4juneko/Aiffel_work/blob/master/230307_On_3rd_CR.ipynb), [2](https://github.com/4juneko/Aiffel_work/blob/master/230308_On_3rd_CR.ipynb), [3](https://github.com/4juneko/Aiffel_work/blob/master/caffeKiosk.ipynb)  |
 |[2. 03172023 데이터 분석 ABC 10.프로젝트](https://github.com/4juneko/Aiffel_work/blob/master/02_DataAnalysisABC_10project_03172023.ipynb)  |Sales Analysis of Study Cafe|
 |[3. 03232023 머신러닝 기초 10.프로젝트](https://github.com/4juneko/Aiffel_work/blob/master/03_machineLearningBasic_10project_03232023.ipynb)| predict peice of airbnb in New York (kaggle dataset) |
 |[4. 03272023 머신러닝 분류 프로젝트](https://github.com/4juneko/Aiffel_work/blob/master/04_Classification_3Datasets_scikitLearn_03272023.ipynb)| 3 datasets of sklearn (digits, wine, breast_cancer)|
