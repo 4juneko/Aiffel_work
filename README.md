@@ -24,7 +24,7 @@
 - LGEnsol, TSLA, SK innovation
 ----
 [9. 04202023 넷플릭스 데이터 분석](https://github.com/4juneko/Aiffel_work/blob/master/09_datathon_Netflix_04182023.ipynb)
-- Datathon (2021년 9월까지 데이터)
+- Datathon (Data to September 2021)
 ----
 [10. 40242023 캐글 집값 예측](https://github.com/4juneko/Aiffel_work/blob/master/10_Kaggle_house_price_predict_04172023.ipynb)
 - Seatle House Price Prediction
@@ -37,3 +37,10 @@
 ----
 [13. 05182023 가위, 바위, 보 이미지 인식](https://github.com/4juneko/Aiffel_work/blob/master/13_rock_scissor_paper_05112023.ipynb)
 - Image Classification, Rock, Scissors and Paper
+----
+[14. 05272023 닮은 꼴 찾기](https://github.com/4juneko/Aiffel_work/blob/master/14_CV_embedding_05222023.ipynb)
+- Crop and Embedding Image
+----
+[15. 05272023 얼굴에 스티커 붙이기](https://github.com/4juneko/Aiffel_work/blob/master/15_faceLandMark_05242023.ipynb)
+- To use Face Detection and LandMark model
+----
