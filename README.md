@@ -13,5 +13,5 @@
 |[11. 05022023 Deep Learning](https://github.com/4juneko/Aiffel_work/blob/master/11_DeepLearning_Project_04272023.ipynb)|Prediction of Boston house price, Classification of Reuters(text), Classification of CIFAR10(image)|
 |[12. 05102023 Computer Vision Project](https://github.com/4juneko/Aiffel_work/blob/master/12_Computer_Vision_Project_05082023.ipynb)|VGG16 Model and Object Detection Model|
 |[13. 05182023 가위, 바위, 보 이미지 인식](https://github.com/4juneko/Aiffel_work/blob/master/13_rock_scissor_paper_05112023.ipynb)|Image Classification, Rock, Scissors and Paper|
-|[14. 05272023 닮은 꼴 찾기](https://github.com/4juneko/Aiffel_work/blob/master/14_CV_embedding_05222023.ipynb)|Crop and Embedding Image|
+|[14. 05272023 닮은 꼴 찾기](https://github.com/4juneko/Aiffel_work/blob/master/14_CV_embedding_05222023.ipynb)|Cropping and Embedding Image|
 |[15. 05272023 얼굴에 스티커 붙이기](https://github.com/4juneko/Aiffel_work/blob/master/15_faceLandMark_05242023.ipynb)|To use Face Detection and LandMark model|
