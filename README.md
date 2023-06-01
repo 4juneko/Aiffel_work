@@ -15,3 +15,4 @@
 |05182023|[13. 가위, 바위, 보 이미지 인식](https://github.com/4juneko/Aiffel_work/blob/master/13_rock_scissor_paper_05112023.ipynb)|Image Classification, Rock, Scissors and Paper|
 |05272023|[14. 닮은 꼴 찾기](https://github.com/4juneko/Aiffel_work/blob/master/14_CV_embedding_05222023.ipynb)|Cropping and Embedding Image|
 |05272023|[15. 얼굴에 스티커 붙이기](https://github.com/4juneko/Aiffel_work/blob/master/15_faceLandMark_05242023.ipynb)|To use Face Detection and LandMark model|
+|06012023|[16. 작사하기](https://github.com/4juneko/Aiffel_work/blob/master/16_makeLyrics_50292023.ipynb)|Train text and Generate lyrics|
