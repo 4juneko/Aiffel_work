@@ -17,4 +17,4 @@
 |05272023|[15. 얼굴에 스티커 붙이기](https://github.com/4juneko/Aiffel_work/blob/master/15_faceLandMark_05242023.ipynb)|To use Face Detection and LandMark model|
 |06012023|[16. 작사하기](https://github.com/4juneko/Aiffel_work/blob/master/16_makeLyrics_50292023.ipynb)|Train text and Generate lyrics|
 |06042023|[17. 이미지 객체 분류하기](https://github.com/4juneko/Aiffel_work/blob/master/17_findProblemsOfSegmentation_05312023.ipynb)|Semantic Segmentation, Open CV|
-|06122023|[18. 영화평 텍스트 감성분석](https://github.com/4juneko/Aiffel_work/blob/master/18_NL_movieGrade_Korean_06072023.ipynb)|
+|06122023|[18. 영화평 텍스트 감성분석](https://github.com/4juneko/Aiffel_work/blob/master/18_NL_movieGrade_Korean_06072023.ipynb)|NL, Korean, Word2Vec, Embedding|
