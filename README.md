@@ -18,3 +18,4 @@
 |06012023|[16. 작사하기](https://github.com/4juneko/Aiffel_work/blob/master/16_makeLyrics_50292023.ipynb)|Train text and Generate lyrics|
 |06042023|[17. 이미지 객체 분류하기](https://github.com/4juneko/Aiffel_work/blob/master/17_findProblemsOfSegmentation_05312023.ipynb)|Semantic Segmentation, Open CV|
 |06122023|[18. 영화평 텍스트 감성분석](https://github.com/4juneko/Aiffel_work/blob/master/18_NL_movieGrade_Korean_06072023.ipynb)|NL, Korean, Word2Vec, Embedding|
+|06132023|[19. CIFAR10 이미지 생성 모델](https://github.com/4juneko/Aiffel_work/blob/master/19_GAN_CIFAR10_06082023.ipynb)| DCGAN, CIFAR10|
