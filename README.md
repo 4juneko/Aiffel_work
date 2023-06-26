@@ -19,6 +19,6 @@
 |06042023|[17. 이미지 객체 분류하기](https://github.com/4juneko/Aiffel_work/blob/master/17_findProblemsOfSegmentation_05312023.ipynb)|Semantic Segmentation, Open CV|
 |06122023|[18. 영화평 텍스트 감성분석](https://github.com/4juneko/Aiffel_work/blob/master/18_NL_movieGrade_Korean_06072023.ipynb)|NL, Korean, Word2Vec, Embedding|
 |06132023|[19. CIFAR10 이미지 생성 모델](https://github.com/4juneko/Aiffel_work/blob/master/19_GAN_CIFAR10_06082023.ipynb)| DCGAN, CIFAR10|
-|06192023|[20. 영어를 프랑스어로 번역](https://github.com/4juneko/Aiffel_work/blob/master/20__translator_seq2seq_wordLevel_06122023.ipynb)|Seq2Seq, RNN|
+|06192023|[20. 영어를 프랑스어로 번역](https://github.com/4juneko/Aiffel_work/blob/master/20_translator_seq2seq_wordLevel_06122023.ipynb)|Seq2Seq, RNN|
 |06202023|[21. 문자 인식을 위한 OCR](https://github.com/4juneko/Aiffel_work/blob/master/21_Compare_OCRmodel_06142023.ipynb)|OCR, Keras, Tesseract, Google|
 |06262023|[22. Seq2Seq를 이용한 추상 요약](https://github.com/4juneko/Aiffel_work/blob/master/22_text_summary_attentionLayer_06192023.ipynb)|Seq2Seq, Attention, Extractive & Abstractive Summarization|
