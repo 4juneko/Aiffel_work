@@ -21,3 +21,4 @@
 |06132023|[19. CIFAR10 이미지 생성 모델](https://github.com/4juneko/Aiffel_work/blob/master/19_GAN_CIFAR10_06082023.ipynb)| DCGAN, CIFAR10|
 |06192023|[20. 영어를 프랑스어로 번역](https://github.com/4juneko/Aiffel_work/blob/master/20__translator_seq2seq_wordLevel_06122023.ipynb)|Seq2Seq, RNN|
 |06202023|[21. 문자 인식을 위한 OCR](https://github.com/4juneko/Aiffel_work/blob/master/21_Compare_OCRmodel_06142023.ipynb)|OCR, Keras, Tesseract, Google|
+|06262023|[22. Seq2Seq2를 이용한 추상 요약](https://github.com/4juneko/Aiffel_work/blob/master/22_text_summary_attentionLayer_06192023.ipynb)|Seq2Seq, Attention, Extractive & Abstractive Summarization|
