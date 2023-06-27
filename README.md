@@ -22,3 +22,4 @@
 |06192023|[20. 영어를 프랑스어로 번역](https://github.com/4juneko/Aiffel_work/blob/master/20_translator_seq2seq_wordLevel_06122023.ipynb)|Seq2Seq, RNN|
 |06202023|[21. 문자 인식을 위한 OCR](https://github.com/4juneko/Aiffel_work/blob/master/21_Compare_OCRmodel_06142023.ipynb)|OCR, Keras, Tesseract, Google|
 |06262023|[22. 추상 & 추출 요약](https://github.com/4juneko/Aiffel_work/blob/master/22_text_summary_attentionLayer_06192023.ipynb)|Seq2Seq, Attention, Extractive & Abstractive Summarization|
+|06272023|[23. 한국어 챗봇](https://github.com/4juneko/Aiffel_work/blob/master/23_chatbot_korean_transformer_06222023.ipynb)|Transformer, Learning Rate Schedule, Chatbot, Korean|
