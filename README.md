@@ -2,7 +2,7 @@
 
 |Date|Project Name|Description|
 |--|--|--|
-|03062023|[01. 파바썬? 10.프로젝트](https://github.com/4juneko/Aiffel_work/blob/master/01_pyBoaThon_10project_03062023.ipynb)|Basic python code and homework 3 files [1](https://github.com/4juneko/Aiffel_work/blob/master/01_Sol_On_3rd_CR_03072023.ipynb), [2](https://github.com/4juneko/Aiffel_work/blob/master/01_Sol_On_3rd_CR_1_03082023.ipynb), [3](), [4](https://github.com/4juneko/Aiffel_work/blob/master/01_caffeKiosk_03102023.ipynb)  |
+|03062023|[01. 파바썬? 10.프로젝트](https://github.com/4juneko/Aiffel_work/blob/master/01_pyBoaThon_10project_03062023.ipynb)|Basic python code and homework 3 files [1](https://github.com/4juneko/Aiffel_work/blob/master/01_Sol_On_3rd_CR_03072023.ipynb), [2](https://github.com/4juneko/Aiffel_work/blob/master/01_Sol_On_3rd_CR_1_03082023.ipynb), [3](https://github.com/4juneko/Aiffel_work/blob/master/01_Sol_On_3rd_CR_2_03082023.ipynb), [4](https://github.com/4juneko/Aiffel_work/blob/master/01_caffeKiosk_03102023.ipynb)  |
 |03172023|[02. 데이터 분석 ABC 10.프로젝트](https://github.com/4juneko/Aiffel_work/blob/master/02_DataAnalysisABC_10project_03172023.ipynb)  |Sales Analysis of Study Cafe|
 |03232023|[03. 머신러닝 기초 10.프로젝트](https://github.com/4juneko/Aiffel_work/blob/master/03_machineLearningBasic_10project_03232023.ipynb)| predict peice of airbnb in New York (kaggle dataset) |
 |03272023|[04. 머신러닝 분류 프로젝트](https://github.com/4juneko/Aiffel_work/blob/master/04_Classification_3Datasets_scikitLearn_03272023.ipynb)| 3 datasets of sklearn (digits, wine, breast_cancer)|
