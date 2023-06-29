@@ -10,7 +10,7 @@
 |04112023|[06.시계열 미니 프로젝트](https://github.com/4juneko/Aiffel_work/blob/master/06_timeSeries_miniProject_04112023.ipynb)|Air passengers & Robot execution failures from tsfresh|:star::star::star:|
 |04122023|[07. ARIMA, ARCH 적용 시계열 미니 프로젝트](https://github.com/4juneko/Aiffel_work/blob/master/07_ARIMA_ARCH_04122023.ipynb)| Air passengers(ARIMA) & S&P 500(ARCH)|:star::star::star:|
 |04132023|[08. 3개 종목 주가 예측](https://github.com/4juneko/Aiffel_work/blob/master/08_Forecast_Stock_Project_04132023.ipynb)|Predict Stock Price of LGEnsol, TSLA & SK innovation|:star::star::star:|
-|04202023|[09. 넷플릭스 데이터 분석](https://github.com/4juneko/Aiffel_work/blob/master/09_datathon_Netflix_04182023.ipynb)|Datathon (Data to September 2021)|
+|04202023|[09. 넷플릭스 데이터 분석](https://github.com/4juneko/Aiffel_work/blob/master/09_datathon_Netflix_04182023.ipynb)|Datathon (Data to September 2021)|n/a|
 |04242023|[10. 캐글 집값 예측](https://github.com/4juneko/Aiffel_work/blob/master/10_Kaggle_house_price_predict_04172023.ipynb)|Prediction of House Price in Seatle|:star::star::star:|
 |05022023|[11. Deep Learning](https://github.com/4juneko/Aiffel_work/blob/master/11_DeepLearning_Project_04272023.ipynb)|Prediction of Boston house price, Classification of Reuters(text), Classification of CIFAR10(image)|:star::star::star:|
 |05102023|[12. Computer Vision Project](https://github.com/4juneko/Aiffel_work/blob/master/12_Computer_Vision_Project_05082023.ipynb)|VGG16 Model & Object Detection Model|:star::star::star:|
