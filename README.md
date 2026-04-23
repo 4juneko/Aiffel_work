@@ -1,3 +1,78 @@
+# Aiffel AI 부트캠프 프로젝트 모음
+
+AIFFEL 인공지능 부트캠프(2023.03 – 2023.06) 과정에서 수행한 프로젝트 기반 학습 결과물입니다.  
+Python · Scikit-learn · TensorFlow · Keras · PyTorch 환경에서 데이터 분석부터 생성 AI까지 전 과정을 실습했습니다.
+
+---
+
+## 📁 프로젝트 목록
+
+### 🔹 데이터 분석 · 머신러닝
+
+| # | 프로젝트 | 목적 | 사용 모델 / 기법 |
+|---|---------|------|----------------|
+| 02 | 스터디카페 매출 분석 | 데이터 분석 기초, EDA | Pandas, Matplotlib |
+| 03 | 뉴욕 Airbnb 가격 예측 | 회귀 예측 (Kaggle) | Scikit-learn, Linear Regression |
+| 04 | 3개 데이터셋 분류 | 분류 모델 비교 (digits, wine, breast_cancer) | Scikit-learn |
+| 05 | 당뇨병 · 자전거 수요 예측 | 회귀 분석 | Scikit-learn, Regression |
+| 10 | 시애틀 집값 예측 | 회귀 예측 (Kaggle) | Scikit-learn |
+
+### 🔹 시계열 분석
+
+| # | 프로젝트 | 목적 | 사용 모델 / 기법 |
+|---|---------|------|----------------|
+| 06 | 항공 승객 · 로봇 장애 분석 | 시계열 기초 | tsfresh |
+| 07 | ARIMA · ARCH 시계열 분석 | 시계열 고급 | ARIMA, ARCH, S&P 500 |
+| 08 | LG에너지솔루션 · TSLA · SK이노베이션 주가 예측 | 주가 예측 | LSTM, 시계열 모델 |
+| 09 | 넷플릭스 데이터 분석 | 데이터톤 | EDA, 시각화 |
+
+### 🔹 딥러닝
+
+| # | 프로젝트 | 목적 | 사용 모델 / 기법 |
+|---|---------|------|----------------|
+| 11 | 보스턴 집값 · 로이터 텍스트 · CIFAR10 분류 | 딥러닝 기초 | MLP, Keras |
+
+### 🔹 컴퓨터 비전 (CV)
+
+| # | 프로젝트 | 목적 | 사용 모델 / 기법 |
+|---|---------|------|----------------|
+| 12 | 이미지 분류 · 객체 탐지 | CV 기초 | VGG16, Object Detection |
+| 13 | 가위 · 바위 · 보 이미지 인식 | 이미지 분류 | CNN |
+| 14 | 닮은 꼴 찾기 | 얼굴 임베딩 · 유사도 분석 | Face Embedding |
+| 15 | 얼굴에 스티커 붙이기 | 얼굴 인식 · 랜드마크 탐지 | Face Detection, LandMark |
+| 17 | 이미지 객체 분류 | 시맨틱 세그멘테이션 | Semantic Segmentation, OpenCV |
+
+### 🔹 자연어 처리 (NLP)
+
+| # | 프로젝트 | 목적 | 사용 모델 / 기법 |
+|---|---------|------|----------------|
+| 16 | 작사하기 (가사 생성) | 텍스트 생성 | RNN, LSTM |
+| 18 | 한국어 영화 리뷰 감성 분석 | 감성 분류 | Word2Vec, Embedding |
+| 20 | 영어 → 프랑스어 번역 | 기계 번역 | Seq2Seq, RNN |
+| 21 | OCR 모델 비교 | 문자 인식 | Keras OCR, Tesseract, Google OCR |
+| 22 | 추출 · 추상 요약 | 텍스트 요약 | Seq2Seq, Attention |
+| 23 | 한국어 챗봇 | 챗봇 | Transformer, Learning Rate Schedule |
+
+### 🔹 생성 AI (Generative AI)
+
+| # | 프로젝트 | 목적 | 사용 모델 / 기법 |
+|---|---------|------|----------------|
+| 19 | CIFAR10 이미지 생성 | 이미지 생성 모델 | DCGAN |
+
+---
+
+## 🛠 사용 기술 스택
+
+`Python` `TensorFlow` `Keras` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `OpenCV` `Word2Vec` `Transformer` `GAN` `Seq2Seq` `ARIMA`
+
+---
+
+## 📌 About
+
+- 기간: 2023년 3월 – 2023년 6월
+- 과정: AIFFEL 인공지능 부트캠프
+- 형태: 프로젝트 기반 학습 (PBL)
+
 - Personal Assignmenets of Aiffel Course 
 
 |Date|Project Name|Description|:star:|
